@@ -81,7 +81,8 @@ print("Accuracy:", accuracy)
 
 ## Output:
 
-
+![alt text](ML-11-a.png)
+![alt text](ML-11-b.png)
 
 
 
